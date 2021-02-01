@@ -18,7 +18,7 @@
   ],
   "devDependencies": {
     "phantomjs-prebuilt": "^2.1.16",
-    "uglify-js": "2.6.2"
+    "uglify-js": "3.12.6"
   },
   "author": {
     "name": "Twitter, Inc.",
